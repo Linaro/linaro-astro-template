@@ -16,7 +16,7 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.0.3",
     "@astrojs/tailwind": "^5.0.2",
-    "@fontsource/lato": "^5.0.17",
+    "@fontsource/lato": "^5.0.18",
     "@tailwindcss/typography": "^0.5.10",
     "astro": "^3.4.2",
     "astro-icon": "^0.8.1",
