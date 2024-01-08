@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "ora": "^7.0.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.33",
     "sass": "^1.69.5"
   }
 }
