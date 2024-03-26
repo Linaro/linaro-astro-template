@@ -29,7 +29,7 @@
     "vanilla-cookieconsent": "^2.9.2"
   },
   "devDependencies": {
-    "ora": "^7.0.1",
+    "ora": "^8.0.1",
     "postcss": "^8.4.38",
     "sass": "^1.69.5"
   }
